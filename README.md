@@ -6,7 +6,7 @@ I am passionate about leveraging cutting-edge technologies to build robust and s
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-kumar-752b4110a)
 
-## My Skill Set  
+<h3 align="center"><img src="https://github.com/praveensparkout/praveensparkout/blob/main/code-6618_128.gif" height="20"/> Tech & Tools</h3>  
 <table><tr><td valign="top" width="33%">
 
 
